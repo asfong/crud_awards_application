@@ -1,11 +1,7 @@
 # CRUD Awards Application
 A database backed website used to organize, create, and track employee recognition awards.
 
-Frontend: Angular 7
-
-Backend: Express/Node.js
-
-Database: MariaDB
+Frontend: Angular 7 | Backend: Express/Node.js | Database: MariaDB
 
 Written by: Ashley Fong, Ming Lui, Ben Redmon
 
